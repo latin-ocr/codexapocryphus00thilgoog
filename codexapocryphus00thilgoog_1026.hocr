@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexapocryphus00thilgoog_1026.png"; bbox 0 0 2742 4780; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 380 1232 888 1376">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 380 1232 888 1376">
+     <span class='ocr_line' id='line_1_1' title="bbox 380 1232 888 1376; baseline -0.01 0"><span class='ocrx_word' id='word_1_1' title='bbox 380 1232 888 1376; x_wconf 62' lang='lat' dir='ltr'><strong>oonssx&#39;s</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 37 1545 1072 1770">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 37 1545 1072 1770">
+     <span class='ocr_line' id='line_1_2' title="bbox 37 1545 1072 1770; baseline 0.002 -107"><span class='ocrx_word' id='word_1_2' title='bbox 37 1545 600 1664; x_wconf 82' lang='lat' dir='ltr'><strong>EVANGELII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 658 1545 1072 1770; x_wconf 60' lang='grc' dir='ltr'><strong>ΙῼΑΝΝΕΙ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 87 1779 1024 2086">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 87 1779 1024 2086">
+     <span class='ocr_line' id='line_1_3' title="bbox 87 1779 1024 1922; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 87 1841 299 1918; x_wconf 69' lang='lat' dir='ltr'>mmsns</span> <span class='ocrx_word' id='word_1_5' title='bbox 332 1840 387 1914; x_wconf 71' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 423 1839 582 1914; x_wconf 83' lang='lat' dir='ltr'><strong>sAcRo</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 616 1779 1024 1922; x_wconf 77' lang='lat' dir='ltr'>TEMPLARIORVM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 153 1965 899 2086; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 153 1965 159 1972; x_wconf 67' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 251 1981 540 2084; x_wconf 66' lang='lat' dir='ltr'>TAnvnAmo</span> <span class='ocrx_word' id='word_1_10' title='bbox 573 2009 899 2086; x_wconf 76' lang='lat' dir='ltr'><strong>AssERvATvs.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1376 4780">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1376 4780">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1376 4780; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1376 4780; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

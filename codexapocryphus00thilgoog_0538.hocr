@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexapocryphus00thilgoog_0538.png"; bbox 0 0 2800 4776; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 353 1338 825 1426">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 353 1338 825 1426">
+     <span class='ocr_line' id='line_1_1' title="bbox 353 1338 825 1426; baseline -0.006 -2"><span class='ocrx_word' id='word_1_1' title='bbox 353 1338 825 1426; x_wconf 88' lang='lat' dir='ltr'><strong>HISTORIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 80 1597 1098 1714">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 80 1533 1098 1714">
+     <span class='ocr_line' id='line_1_2' title="bbox 80 1597 1098 1714; baseline -0.001 -6"><span class='ocrx_word' id='word_1_2' title='bbox 80 1603 187 1708; x_wconf 77' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 223 1597 749 1714; x_wconf 71' lang='grc' dir='ltr'><strong>ΝΑΤΝΙΤΑΤΕ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 787 1598 1098 1707; x_wconf 73' lang='lat' dir='ltr'><strong>MARI‘AE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 138 1873 1167 1968">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 138 1873 1167 1968">
+     <span class='ocr_line' id='line_1_3' title="bbox 138 1873 1167 1968; baseline -0.009 -1"><span class='ocrx_word' id='word_1_5' title='bbox 138 1897 217 1968; x_wconf 84' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_6' title='bbox 244 1896 319 1968; x_wconf 91' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_7' title='bbox 350 1888 633 1966; x_wconf 83' lang='lat' dir='ltr'>INFANTIA</span> <span class='ocrx_word' id='word_1_8' title='bbox 662 1873 1039 1961; x_wconf 70' lang='lat' dir='ltr'><strong>SALVATORIS.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1162 1879 1167 1892; x_wconf 86' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1404 4776">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1404 4776">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1404 4776; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1404 4776; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
